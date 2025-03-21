@@ -1,3 +1,1 @@
-
-Ini lagi praktikum PPL, tolong kami lapar
-Halo Nama saya adalah Yohan Artha Pratama Kelas SI4606
+Anggota mengakses branch pribadi dan melakukan perubahan pada file.txt yang sebelumnya sudah di commit dan push oleh PM, kemudian commit dengan pesan yang menjelaskan perubahan tersebut.
