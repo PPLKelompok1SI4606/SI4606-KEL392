@@ -1,0 +1,1 @@
+Anggota melakukan commit dengan menambahkan issue key yang ada pada backlog di Jira.
