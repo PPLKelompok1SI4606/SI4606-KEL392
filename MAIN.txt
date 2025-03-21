@@ -1,1 +1,5 @@
+
+"SAYA BISA MEMBELI RUMAH SECARA CASH"
+
 Anggota mengakses branch pribadi dan melakukan perubahan pada file.txt yang sebelumnya sudah di commit dan push oleh PM, kemudian commit dengan pesan yang menjelaskan perubahan tersebut.
+
